@@ -9,7 +9,7 @@ public class Topic {
 	@Id
 	private String id;
 	private String name;
-	
+
 	public Topic() {
 		super();
 	}
